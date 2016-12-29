@@ -22,6 +22,8 @@ city_list <- c("Minneapolis - St. Paul",
                "Rochester",
                "Saint Cloud")
 
+aqi_colors <- 
+
 ## prepare the OAuth token and set up the target sheet:
 ##  - do this interactively
 ##  - do this EXACTLY ONCE
@@ -62,3 +64,19 @@ ss <- googlesheets::gs_title("forecast_table")
 reset_content <- googlesheets::gs_read(ss, col_types = paste0(rep("c", 9), collapse = ""))
 
 #write.csv(reset_content, "reset_content.csv", row.names = F)
+
+# Assign colors in JS
+#rowCallback = JS('function(nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+#                                      if (parseFloat(aData[3]) > 0)
+#                                      $("td:eq(3)", nRow).css("background-color", "#9BF59B");
+#                                      if (parseFloat(aData[3]) > 50)
+#                                      $("td:eq(3)", nRow).css("background-color", "#ffff00");
+#                                      if (parseFloat(aData[3]) > 100)
+#                                      $("td:eq(3)", nRow).css("background-color", "#ff7e00");
+#                                      if (parseFloat(aData[3]) > 150)
+#                                     $("td:eq(3)", nRow).css("background-color", "#ff0000");
+#                                      if (parseFloat(aData[3]) > 200)
+#                                      $("td:eq(3)", nRow).css("background-color", "#99004c");
+#                                      if (parseFloat(aData[3]) > 100)
+#                                      $("td:eq(3)", nRow).css("font-weight", "bold");
+#                                       }'))

@@ -59,6 +59,18 @@ shinyServer(function(input, output, session) {
                             ignoreNULL = FALSE)
                             
   
-  output$table <- DT::renderDataTable(the_data(), options=list(searching=F, paging=F, scrollX=T), rownames = FALSE)
+  output$table <- DT::renderDataTable({
+       #aqi_cats  <- cut(as.numeric(unlist(the_data()[ , 3:8])), breaks = c(0,50,100,150,200,1000), labels = c("#9BF59B", "#ffff00", "#ff7e00", "#ff0000", "#99004c"))
+         
+       data <- datatable(the_data(), rownames = FALSE, options = list(searching=F, paging=F, scrollX=T))
+               
+       data <- formatStyle(data, 
+                           c('today','day1','day2','day3','day4','day5'),
+                           fontWeight = styleInterval(c(50), c("normal","bold")),
+                           backgroundColor =  styleInterval(c(0,50,100,150,200), c("#FFF","#9BF59B", "#ffff00", "#ff7e00", "#ff0000", "#99004c"))) #syleInterval(aqi_cats, aqi_colors))
+       
+  })
+                                    
+                                                                                            
   
 })
