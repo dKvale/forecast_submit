@@ -67,7 +67,7 @@ shinyServer(function(input, output, session) {
        data <- formatStyle(data, 
                            c('today','day1','day2','day3','day4','day5'),
                            fontWeight = styleInterval(c(50), c("normal","bold")),
-                           backgroundColor =  styleInterval(c(0,50,100,150,200), c("#FFF","#9BF59B", "#ffff00", "#ff7e00", "#ff0000", "#99004c"))) #syleInterval(aqi_cats, aqi_colors))
+                           backgroundColor =  styleInterval(c(0,50,100,150,200), aqi_colors)) 
        
   })
                                     

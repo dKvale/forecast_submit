@@ -1,0 +1,90 @@
+Call Sign,Code,County,Division,Location,City,Wban,Lat,Long
+,,Scott,East Central,Southern Metro,Southern Metro,,"44.751329, ",-93.292197
+,,Anoka,East Central,Northern Metro,Northern Metro,,45.159059,-93.240299
+,,Ramsey,East Central,Minneapolis - St. Paul,Minneapolis - St. Paul,,44.96155,-93.172793
+LVN,KLVN,Dakota,Southeast,Airlake Airport,,4943,44.625191,-93.227284
+AIT,KAIT,Aitkin,East Central,Aitkin NDB,,94999,46.548965,-93.675734
+AEL,KAEL,Freeborn,South Central,Albert Lea Mun. Arpt,,94968,43.682285,-93.372172
+AXN,KAXN,Douglas,West Central,Alexandria,Alexandria,14910,45.868032,-95.393961
+BDE,KBDE,Lake of the Woods,North Central,Baudette Intl'l Aprt,,94961,48.7261,-94.6121
+BJI,KBJI,Beltrami,North Central,Bemidji,Bemidji,14958,47.507596,-94.92774
+BBB,KBBB,Swift,West Central,Benson,,54904,45.330959,-95.646937
+FOZ,KFOZ,Itasca,North Central,Bigfork,,4928,47.782728,-93.649041
+BRD,KBRD,Crow Wing,East Central,Brainerd,Brainerd,94938,46.402062,-94.12736
+CBG,KCBG,Isanti,East Central,Cambridge,,4909,45.5628,-93.2644
+COQ,KCOQ,Carlton,East Central,Cloquet,Fond du Lac - Cloquet,4914,46.698575,-92.50345
+CQM,KCQM,Saint Louis,Northeast,Cook,,54905,47.821498,-92.691503
+CKN,KCKN,Polk,Northwest,Crookston,,4912,47.84041,-96.620398
+DLH,KDLH,Saint Louis,Northeast,Duluth Intl'l Aprt,Duluth,14913,46.8434,-92.1866
+,,Becker,Northwest,Detroit Lakes,Detroit Lakes,,46.820193,-95.843623
+DYT,KDYT,Saint Louis,Northeast,Duluth Sky Harbor,,4919,46.724503,-92.044483
+EAU,KEAU,Eau Claire,,Eau Claire,,14991,44.8665,-91.4879
+ELO,KELO,Saint Louis,Northeast,Ely,Ely,94964,47.824724,-91.832975
+EVM,KEVM,Saint Louis,Northeast,Eveleth,,4923,47.427375,-92.497255
+FRM,KFRM,Martin,South Central,Fairmont,,94948,43.6495,-94.41683
+FAR,KFAR,Cass,,Fargo Int'l Arpt,Fargo - Moorhead,14914,46.9111,-96.8147
+FBL,KFBL,Rice,South Central,Faribault,,94969,44.329872,-93.311742
+FFM,KFFM,Otter Tail,West Central,Fergus Falls,,94966,46.285942,-96.153497
+FGN,KFGN,Lake of the Woods,North Central,Flag Island,,4926,49.318365,-94.90208
+FCM,KFCM,Hennepin,East Central,Flying Cloud Arpt,,94963,44.824871,-93.457042
+FSE,KFSE,Polk,Northwest,Fosston,,4929,47.593525,-95.770769
+GYL,KGYL,McLeod,Central,Glencoe,,4932,44.7588,-94.0905
+GHW,KGHW,Pope,West Central,Glenwood,,4931,45.645692,-95.318798
+GFK,KGFK,Grand Forks,Northwest,Grand Forks Int'l Arpt,Grand Forks,14916,47.947406,-97.183769
+GNA,KGNA,Cook,Northeast,Grand Marais,,94992,47.747238,-90.343261
+CKC,KCKC,Cook,Northeast,Grand Marais Mun. Arpt,,4911,47.83701,-90.385766
+,,Cook,Northeast,Grand Portage,Grand Portage,,47.964351,-89.684961
+GPZ,KGPZ,Itasca,North Central,Grand Rapids,,94919,47.202808,-93.507
+GDB,KGDB,Yellow Medicine,West Central,Granite Falls,,4999,44.753,-95.556
+HIB,KHIB,Saint Louis,Northeast,Hibbing - Virginia,Hibbing - Virginia,94931,47.3804,-92.8324
+HCD,KHCD,McLeod,Central,Hutchinson,,4933,44.859551,-94.385537
+INL,KINL,Koochiching,North Central,International Falls,International Falls,14918,48.559452,-93.395576
+MJQ,KMJQ,Jackson,Southwest,Jackson,,99999,43.649584,-94.988452
+LSE,KLSE,La Crosse,,La Crosse,,14920,43.8792,-91.2532
+LJF,KLJF,Meeker,Central,Litchfield,,4941,45.094863,-94.508363
+LXL,KLXL,Morrison,Central,Little Falls,,4944,45.9509,-94.3441
+XVG,KXVG,Cass,North Central,Longville,,4984,46.990671,-94.20214
+LYV,KLYV,Rock,Southwest,Luverne - Quentin Aprt,,54926,43.621577,-96.215292
+MKT,KMKT,Blue Earth,South Central,Mankato,Mankato,14954,44.218477,-93.917867
+MML,KMML,Lyon,Southwest,Marshall,Marshall,94976,44.450439,-95.821504
+HZX,KHZX,Aitkin,East Central,McGregor,,4997,46.616768,-93.311438
+ANE,KANE,Anoka,East Central,Minneapolis/Blaine,,94974,45.142563,-93.212739
+MIC,KMIC,Hennepin,East Central,Minneapolis/Crystal,,94960,45.062198,-93.351013
+MSP,KMSP,Hennepin,East Central,Minneapolis/St. Paul Int'l Aprt,,14922,44.8852,-93.2313
+MVE,KMVE,Chippewa,West Central,Montevideo,,4951,44.967472,-95.711585
+JKJ,KJKJ,Clay,Northwest,Moorhead,,4939,46.838969,-96.655526
+MZH,KMZH,Carlton,East Central,Moose Lake,,4954,46.416401,-92.804925
+JMR,KJMR,Kanabec,East Central,Mora,,4940,45.884754,-93.268335
+MOX,KMOX,Stevens,West Central,Morris,,4948,45.567768,-95.966039
+ULM,KULM,Brown,South Central,New Ulm Municipal Arpt,,4980,44.322718,-94.502401
+OVL,KOVL,Renville,Central,Olivia,,4960,44.779207,-95.030304
+ORB,KORB,Saint Louis,Northeast,Orr,,4958,48.018403,-92.858067
+VVV,KVVV,Big Stone,West Central,Ortonville,,4982,45.305039,-96.412399
+OWA,KOWA,Steele,South Central,Owatonna,,4961,44.119048,-93.25689
+PKD,KPKD,Hubbard,North Central,Park Rapids,,94967,46.898164,-95.070857
+PEX,KPEX,Stearns,Central,Paynesville,,99999,45.372579,-94.745295
+PWC,KPWC,Cass,North Central,Pine River,,54915,46.724723,-94.382983
+PQN,KPQN,Pipestone,Southwest,Pipestone,,4965,43.983132,-96.300329
+FKA,KFKA,Fillmore,Southeast,Preston,,4927,43.676788,-92.178509
+RGK,KRGK,Goodhue (Pierce),Southeast,Red Wing,,4967,44.592622,-92.48438
+,,Beltrami,North Central,Red Lake,Red Lake Nation,,47.876405,-95.016164
+RWF,KRWF,Redwood,Southwest,Redwood Falls,,14992,44.5483,-95.080378
+RST,KRST,Olmsted,Southeast,Rochester,Rochester,14925,43.904,-92.4921
+ROX,KROX,Roseau,Northwest,Roseau,,4970,48.855956,-95.695004
+ROS,KROS,Chisago,East Central,Rush City,,4969,45.700693,-92.952319
+STP,KSTP,Ramsey,East Central,Saint Paul Downtown Arpt,Saint Paul,14927,44.932334,-93.055866
+BFW,KBFW,Lake,Northeast,Silver Bay,,4905,47.250625,-91.409184
+FSD,KFSD,Minnehaha,,Sioux Falls,,14944,43.577508,-96.753835
+DVP,KDVP,Murray,Southwest,Slayton,,54924,43.991343,-95.782564
+SGS,KSGS,Dakota,Southeast,South St. Paul,,4974,44.86003,-93.032021
+STC,KSTC,Sherburne,Central,St. Cloud,Saint Cloud,14926,45.54415,-94.051625
+SAZ,KSAZ,Wadena,Central,Staples,,54910,46.382289,-94.801121
+SUW,KSUW,Douglas,,Superior,,54908,46.68342,-92.092567
+TVF,KTVF,Pennington,Northwest,Thief River Falls,,94956,48.066117,-96.183482
+ADC,KADC,Otter Tail,Central,Wadena,,94997,46.451929,-95.209879
+RRT,KRRT,Roseau,Northwest,Warroad,,4971,48.941104,-95.344497
+ATY,KATY,Codington,,Watertown,,14946,44.91766,-97.154382
+BDH,KBDH,Kandiyohi,Central,Willmar,,14928,45.111132,-93.125839
+MWM,KMWM,Cottonwood,Southwest,Windom,,4952,43.9099,-95.10725
+ONA,KONA,Winona,Southeast,Winona,,4956,44.078,-91.711577
+OTG,KOTG,Nobles,Southwest,Worthington,,94927,43.652435,-95.575821

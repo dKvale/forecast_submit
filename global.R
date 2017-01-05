@@ -1,28 +1,39 @@
 # library(rsconnect)
 # deployApp()
 
+aqi_cities <- c("Minneapolis - St. Paul",
+                "Northern Metro",
+                "Southern Metro",
+                "Brainerd",
+                "Bemidji",
+                "Detroit Lakes",
+                "Duluth",
+                "Ely",
+                "Fargo - Moorhead",
+                "Fond du Lac - Cloquet",
+                "Grand Forks",
+                "Grand Portage",
+                "Hibbing - Virginia",
+                "International Falls",
+                "Mankato",
+                "Marshall",
+                "Red Lake Nation",
+                "Rochester",
+                "Saint Cloud")
 
-city_list <- c("Minneapolis - St. Paul",
-               "Northern Metro",
-               "Southern Metro",
-               "Brainerd",
-               "Bemidji",
-               "Detroit Lakes",
-               "Duluth",
-               "Ely",
-               "Fargo - Moorhead",
-               "Fond du Lac - Cloquet",
-               "Grand Forks",
-               "Grand Portage",
-               "Hibbing",
-               "International Falls",
-               "Mankato",
-               "Marshall",
-               "Red Lake Nation",
-               "Rochester",
-               "Saint Cloud")
 
-aqi_colors <- 
+cities <- read.csv("data-raw//city_locations.csv", stringsAsFactors = F)
+
+cities <- subset(cities, City %in% aqi_cities)
+
+city_list <- cities$city
+
+aqi_colors <- c("#FFF",     # White
+                "#9BF59B",  # White
+                "#ffff00",  # White
+                "#ff7e00",  # White
+                "#ff0000",  # White
+                "#99004c")  # White
 
 ## prepare the OAuth token and set up the target sheet:
 ##  - do this interactively
