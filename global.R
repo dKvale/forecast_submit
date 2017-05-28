@@ -29,11 +29,11 @@ cities <- subset(cities, City %in% aqi_cities)
 city_list <- cities$city
 
 aqi_colors <- c("#FFF",     # White
-                "#9BF59B",  # White
-                "#ffff00",  # White
-                "#ff7e00",  # White
-                "#ff0000",  # White
-                "#99004c")  # White
+                "#9BF59B",  
+                "#ffff00",  
+                "#ff7e00",  
+                "#ff0000",  
+                "#99004c")  
 
 ## prepare the OAuth token and set up the target sheet:
 ##  - do this interactively
